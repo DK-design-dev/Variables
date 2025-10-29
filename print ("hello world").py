@@ -1,2 +1,3 @@
-print ("hello world")
-print ("hello")
+name = input('enter yout name')
+age - input ('enter your age')
+
